@@ -10,7 +10,7 @@ The theme has been transferred as accurately as possible. However, there is one 
 
 1. Open `Command Palette`
 2. Select `zed: extensions`
-3. Search `Simple Darker Theme`
+3. Search `Nordic.nvim Theme`
 
 ## Overrides
 
