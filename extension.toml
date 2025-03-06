@@ -1,7 +1,7 @@
 id = "nordic-nvim-theme"
 name = "Nordic.nvim Theme"
 version = "0.0.2"
-schema_version = 2
+schema_version = 1
 authors = ["Evgenii Kislichenko (evgenii.kislichenko@gmail.com)"]
 description = "Port of AlexvZyl/nordic.nvim theme to zed"
 repository = "https://github.com/kislikjeka/zed-theme-nordic"
